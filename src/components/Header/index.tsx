@@ -12,7 +12,7 @@ const Header = () => {
         <Link to={"#"}>About</Link>
         <Link to={"#"}>Services</Link>
         <Link to={"#"}>Portfolio</Link>
-        <Link to={"/contact-us"}>Contact Us</Link>
+        <Link to={"#"}>Contact Us</Link>
       </div>
       <Button
         text={"Get Started"}

@@ -7,7 +7,7 @@ const Layout = () => {
     <div className="h-vh bg-black text-white">
       <Header />
       <div className="flex flex-col justify-center items-center">
-        <div className="max-w-[1440px]">
+        <div className="max-screen">
           <Outlet />
         </div>
       </div>

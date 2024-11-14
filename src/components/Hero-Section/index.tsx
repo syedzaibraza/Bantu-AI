@@ -5,7 +5,7 @@ import { TbCircleArrowUpRight } from "react-icons/tb";
 
 const Hero = () => {
   return (
-    <div className="relative bg-hero-pattern flex flex-col gap-4 items-center bg-no-repeat justify-center bg-contain p-20 pb-3 pt-40">
+    <div className="relative bg-hero-pattern flex flex-col gap-4 items-center bg-no-repeat justify-center bg-cover p-20 pb-3 pt-40">
       <div className="relative z-10 flex flex-col justify-center items-center">
         <div className="flex items-center gap-3">
           <GrInstagram size={24} />
