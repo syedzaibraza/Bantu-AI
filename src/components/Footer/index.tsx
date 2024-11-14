@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="p-6 flex w-screen items-center bg-transparent justify-around ">
+      <div className="p-6 flex w-full items-center bg-transparent justify-around ">
         <p>© 2023 Mangcoding. All rights reserved.</p>
         <div className="flex gap-6 ">
           <Link to={"#"}>About</Link>

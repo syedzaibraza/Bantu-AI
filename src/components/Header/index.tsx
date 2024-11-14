@@ -4,7 +4,7 @@ import { TbCircleArrowUpRight } from "react-icons/tb";
 
 const Header = () => {
   return (
-    <div className="p-5 flex w-screen items-center bg-transparent justify-around absolute top-0 left-0 z-10">
+    <div className="p-5 flex w-full items-center bg-transparent justify-around absolute top-0 left-0 z-10">
       <Link to={"/"}>
         <img src="/logo.svg" alt="Logo" className="h-12" />
       </Link>
