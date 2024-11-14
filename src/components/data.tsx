@@ -101,44 +101,44 @@ interface Testimonial {
 }
 export const TestimonialsData: Testimonial[] = [
   {
-    avatarSrc: "/public/icons/avatar.svg",
+    avatarSrc: "/avatar/Nugraha.svg",
     name: "Nugraha",
     role: "Founder of Mangcoding",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
   {
-    avatarSrc: "/public/icons/avatar.svg",
-    name: "Nugraha",
-    role: "Founder of Mangcoding",
+    avatarSrc: "/avatar/Alex.svg",
+    name: "Alex jounky",
+    role: "Fonder of Robs ",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
   {
-    avatarSrc: "/public/icons/avatar.svg",
-    name: "Nugraha",
-    role: "Founder of Mangcoding",
+    avatarSrc: "/avatar/Chelsia.svg",
+    name: "Chelsia alexy",
+    role: "Fonder of Frank",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
   {
-    avatarSrc: "/public/icons/avatar.svg",
-    name: "Nugraha",
-    role: "Founder of Mangcoding",
+    avatarSrc: "/avatar/Samsul.svg",
+    name: "Samsul Afroy",
+    role: "Full Stack Development",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
   {
-    avatarSrc: "/public/icons/avatar.svg",
-    name: "Nugraha",
-    role: "Founder of Mangcoding",
+    avatarSrc: "/avatar/Purwa.svg",
+    name: "Purwa Adi Twingkiwingki",
+    role: "UI/UX Designer",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
   {
-    avatarSrc: "/public/icons/avatar.svg",
-    name: "Nugraha",
-    role: "Founder of Mangcoding",
+    avatarSrc: "/avatar/Rizwan.svg",
+    name: "Rizwan Gusnajmi",
+    role: "Web Developer",
     quote:
       "Mangcoding is the biggest company in Indonesia, providing services in Website Development, Shopify, and WordPress.",
   },
