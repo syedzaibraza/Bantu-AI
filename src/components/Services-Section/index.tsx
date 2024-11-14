@@ -53,7 +53,7 @@ const ServicesSection = () => {
             />
           ))}
           <div className="w-1/4 h-[287px] bg-[#504cff]/60 blur-[150px] absolute -bottom-32 -left-40" />
-          <div className="w-1/4 h-[287px] bg-[#854cff]/60 blur-[150px] absolute bottom-40 -right-40" />
+          <div className="w-1/4 h-[287px] bg-[#854cff]/60 blur-[150px] absolute bottom-40 right-0" />
         </div>
       </div>
     </div>

@@ -34,7 +34,7 @@ const Projects = () => {
           />
         ))}
         <div className="w-1/4 h-[287px] bg-[#854cff]/60 blur-[150px] absolute -top-36 -left-40" />
-        <div className="w-1/4 h-[287px] bg-[#504cff]/60 blur-[100px] absolute -bottom-16 -right-40" />
+        <div className="w-1/4 h-[287px] bg-[#504cff]/60 blur-[100px] absolute -bottom-16 right-0" />
       </div>
     </div>
   );
